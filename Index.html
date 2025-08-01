@@ -1,0 +1,126 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Virtual CV</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(to right, #f0f4ff, #d9e4ff);
+            color: #333;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 50px auto;
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 0 25px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #003366;
+            margin-bottom: 5px;
+        }
+
+        h2 {
+            color: #004080;
+            border-bottom: 2px solid #cce0ff;
+            padding-bottom: 5px;
+            margin-top: 40px;
+        }
+
+        .contact-info p {
+            margin: 4px 0;
+        }
+
+        .contact-info a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+
+        ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+            ul li {
+                margin: 8px 0;
+            }
+
+        .icon-list li i {
+            color: #0073e6;
+            margin-right: 10px;
+        }
+
+        .section {
+            margin-top: 30px;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Jurie-Hannes Blom</h1>
+
+        <div class="contact-info">
+            <p><strong>Email:</strong> <a href="mailto:jhblom2001@gmail.com">jhblom2001@gmail.com</a></p>
+            <p><strong>Phone:</strong> 079 285 3801</p>
+            <p>
+                <strong>LinkedIn:</strong>
+                <a href="https://www.linkedin.com/in/jurie-hannes-blom-438003209/" target="_blank">
+                    jurie-hannes-blom-438003209
+                </a>
+            </p>
+            <p>
+                <strong>GitHub:</strong>
+                <a href="https://github.com/ModVortex" target="_blank">
+                    <i class="fab fa-github"></i> ModVortex
+                </a>
+            </p>
+        </div>
+
+        <div class="section">
+            <h2>About Me</h2>
+            <p>
+                Motivated 23-year-old, final-year student, with a passion for coding and software development.
+                I am eager to learn, grow, and contribute to real-world projects, actively seeking opportunities to expand my
+                skills and gain experience in the tech industry. I enjoy working in team environments, I communicate well,
+                and value collaboration with shared problem-solving. I’m adaptable and committed to continuously improving both
+                my technical skills and my contributions to any project I’m a part of.
+            </p>
+        </div>
+
+        <div class="section">
+            <h2>Courses</h2>
+            <ul>
+                <li>Udemy Python Bootcamp from Zero to Hero – 2021–2022, Certificate</li>
+                <li>Udemy Data Structures and Algorithms Deep Dive using Java – 2021–2022, Certificate</li>
+                <li>Udemy The Web Developer Bootcamp – 2021–2022, Certificate</li>
+                <li>Learn Programming with Go (Golang) – 2021–2022, Certificate</li>
+                <li>HyperionDev Software Engineer Bootcamp – 2022–2023, Certificate</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Programming Languages</h2>
+            <ul class="icon-list">
+                <li><i class="fa-solid fa-code"></i> Python</li>
+                <li><i class="fa-brands fa-html5"></i> HTML & CSS</li>
+                <li><i class="fa-brands fa-java"></i> Java</li>
+                <li><i class="fa-solid fa-terminal"></i> Go (Golang)</li>
+                <li><i class="fa-brands fa-js-square"></i> JavaScript</li>
+                <li><i class="fa-solid fa-c"></i> C#</li>
+            </ul>
+        </div>
+    </div>
+
+</body>
+</html>
