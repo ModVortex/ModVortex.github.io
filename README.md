@@ -47,8 +47,6 @@ _____________________________________
 
 **LinkedIn**: jurie-hannes-blom-438003209
 
-**Email**: jhblom2001@gmail.com
-
 **Github**: https://github.com/ModVortex
 _______________
 
