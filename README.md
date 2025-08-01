@@ -7,6 +7,7 @@ ____________
 Motivated 23-year-old, final-year student, with a passion for coding and software development. I am eager to learn, grow, and contribute to real-world projects, 
 actively seeking opportunities to expand my skills and gain experience in the tech industry.
 I’m adaptable and committed to continuously improving both my technical skills and my contributions to any project I’m a part of.
+_________________________
 
 
 
@@ -23,12 +24,14 @@ ________________
 ___________
 HTML5, CSS3
 JavaScript, jQuery
+__________________
 
 
 
 **Backend**
 ____________
 C#, Python, Java, C++, GO(Golang)
+__________________________________
 
 
 
@@ -36,6 +39,7 @@ C#, Python, Java, C++, GO(Golang)
 _______________
 HTML - Base structure of the website
 CSS - Styling and layout
+_____________________________________
 
 
 
