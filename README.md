@@ -21,7 +21,7 @@ _______________________
 ________________
 
 **Frontend**
-___________
+
 HTML5, CSS3
 JavaScript, jQuery
 __________________
@@ -29,14 +29,14 @@ __________________
 
 
 **Backend**
-____________
+
 C#, Python, Java, C++, GO(Golang)
 __________________________________
 
 
 
 **Built With**:
-_______________
+
 HTML - Base structure of the website
 CSS - Styling and layout
 _____________________________________
@@ -44,12 +44,12 @@ _____________________________________
 
 
 **Contact Me**:
-_______________
 
 **LinkedIn**: jurie-hannes-blom-438003209
 
 **Email**: jhblom2001@gmail.com
 
 **Github**: https://github.com/ModVortex
+_______________
 
 
