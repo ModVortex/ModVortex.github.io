@@ -12,7 +12,7 @@ _________________________
 
 
 **How to View the Site**
-________________________
+
 https://modvortex.github.io
 
 
