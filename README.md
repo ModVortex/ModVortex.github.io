@@ -14,7 +14,7 @@ https://modvortex.github.io
 
 
 
- **Tech Stack**
+ **Tech Stack**:
 
 **Frontend**
 HTML5, CSS3
@@ -27,13 +27,13 @@ C#, Python, Java, C++, GO(Golang)
 
 
 
-**Built With**
+**Built With**:
 HTML - Base structure of the website
 CSS - Styling and layout
 
 
 
-**Contact Me**
+**Contact Me**:
 
 **LinkedIn**: jurie-hannes-blom-438003209
 
