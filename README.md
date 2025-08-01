@@ -18,7 +18,7 @@ https://modvortex.github.io
 
 _______________________
  **Tech Stack**:
-________________
+
 
 **Frontend**
 
