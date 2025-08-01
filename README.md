@@ -2,7 +2,7 @@
  
 
 
-**About me**
+**About me**:
 
 Motivated 23-year-old, final-year student, with a passion for coding and software development. I am eager to learn, grow, and contribute to real-world projects, 
 actively seeking opportunities to expand my skills and gain experience in the tech industry.
