@@ -11,7 +11,7 @@ _________________________
 
 
 
-**How to View the Site**
+**How to View the Site**:
 
 https://modvortex.github.io
 
